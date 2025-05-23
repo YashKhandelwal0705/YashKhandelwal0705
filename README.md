@@ -43,6 +43,7 @@ Predict housing prices using regression models and feature engineering.
 
 🔹 [**Heart Disease Visualization Dashboard**](https://github.com/YashKhandelwal0705/HeartDiseaseVisualization)  
 A Tableau dashboard showing patterns in cardiovascular health indicators.
+
 ---
 
 ### 📊 GitHub Stats
