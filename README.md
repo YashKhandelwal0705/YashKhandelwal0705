@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects
 
-🔹 [**House Price Prediction**](https://github.com/YashKhandelwal0705/House-price-prediction)  
-Predict housing prices using regression models and feature engineering.
+🔹 [**Real-Time Sign Language Translation**](https://github.com/YashKhandelwal0705/Real-Time-Sign-Language-Translation)  
+A computer vision-based system using YOLOv8 Nano to interpret ASL gestures in real time.
 
-🔹 [**Heart Disease Visualization Dashboard**](https://github.com/YashKhandelwal0705/HeartDiseaseVisualization)  
-A Tableau dashboard showing patterns in cardiovascular health indicators.
+🔹 [**Insurance Claim Severity Prediction**](https://github.com/YashKhandelwal0705/insurance_claim_prediction)  
+Predicts the severity of vehicle insurance claims using machine learning models and data preprocessing.
 
 ---
 
