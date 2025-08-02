@@ -170,7 +170,8 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 ### 💭 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Snake animation](https://raw.githubusercontent.com/YashKhandelwal0705/YashKhandelwal0705/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://raw.githubusercontent.com/YashKhandelwal0705/YashKhandelwal0705/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation light](https://raw.githubusercontent.com/YashKhandelwal0705/YashKhandelwal0705/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
