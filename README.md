@@ -52,7 +52,7 @@ me.say_hi()
 
 </div>
 
-### Data Science & Analytics
+### Visualization & DS Environments
 <div align="center">
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -143,8 +143,6 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 
 ---
 
-## 🌟 Achievements & Certifications
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YashKhandelwal0705&style=for-the-badge&color=blue)
@@ -162,7 +160,6 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashkhandelwal07.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-khandelwal-/)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkhandelwal0705@gmail.com)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashKhandelwal0705)
 
 </div>
 
@@ -173,8 +170,7 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 ### 💭 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake Animation
-![Snake animation](https://github.com/YashKhandelwal0705/YashKhandelwal0705/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YashKhandelwal0705/YashKhandelwal0705/output/github-contribution-grid-snake.svg)
 
 ---
 
