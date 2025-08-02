@@ -36,8 +36,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 
@@ -53,11 +52,10 @@ me.say_hi()
 
 </div>
 
-### Visualization & Analytics
+### Data Science & Analytics
 <div align="center">
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
@@ -93,10 +91,10 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=YashKhandelwal0705&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Contribution Graph
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashKhandelwal0705&theme=tokyo-night&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashKhandelwal0705&theme=tokyo-night&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ⚡ GitHub Metrics
-![Metrics](https://metrics.lecoq.io/YashKhandelwal0705?template=classic&config.timezone=Asia%2FKolkata)
+[![Metrics](https://github-readme-stats.vercel.app/api?username=YashKhandelwal0705&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -132,20 +130,6 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 </table>
 
 </div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.2%
-Java         5 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   21.1%
-C++          3 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   15.1%
-SQL          2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   8.7%
-JavaScript   1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -207,14 +191,12 @@ JavaScript   1 hr 15 mins    ▓░░░░░░░░░░░░░░░░
 <details>
 <summary>📊 More GitHub Analytics</summary>
 
-### 📅 Coding Activity
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YashKhandelwal)
-
 ### 🔄 Repository Summary
-- 🔭 **Total Public Repos**: ![GitHub Repo count](https://img.shields.io/github/repo-count/YashKhandelwal0705?style=flat-square)
+- 🔭 **Total Public Repos**: ![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYashKhandelwal0705&style=flat-square)
 - ⭐ **Total Stars Earned**: ![GitHub stars](https://img.shields.io/github/stars/YashKhandelwal0705?style=flat-square)
-- 📦 **Total Commits**: ![GitHub commits](https://img.shields.io/github/commit-activity/m/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
-- 📝 **Total PRs**: ![GitHub pull requests](https://img.shields.io/github/issues-pr/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
-- 🐛 **Total Issues**: ![GitHub issues](https://img.shields.io/github/issues/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
+- 📦 **Recent Commit Activity (this repo)**: ![GitHub commits](https://img.shields.io/github/commit-activity/m/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
+- 📝 **Open PRs (this repo)**: ![GitHub pull requests](https://img.shields.io/github/issues-pr/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
+- 🐛 **Open Issues (this repo)**: ![GitHub issues](https://img.shields.io/github/issues/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
+
 
 </details>
