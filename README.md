@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Aspiring+Data+Scientist+%7C+ML+Engineer;Building+the+Future+with+AI+%26+Data;BTech+CSE+%40+Lovely+Professional+University;Passionate+about+Innovation+%26+Technology)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YashKhandelwal0705&style=for-the-badge&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/YashKhandelwal0705?style=for-the-badge&color=green)
+![GitHub stars](https://img.shields.io/github/stars/YashKhandelwal0705?style=for-the-badge&color=yellow)
+
 </div>
 
 ---
@@ -30,18 +34,16 @@ me.say_hi()
 
 ## 🛠️ Technology Arsenal
 
-### Programming Languages
 <div align="center">
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
-</div>
-
-### Data Science & ML Stack
-<div align="center">
+**Data Science & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -50,22 +52,12 @@ me.say_hi()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
-
-### Visualization & DS Environments
-<div align="center">
+**Tools & Environments**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-</div>
-
-### Development Tools
-<div align="center">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
@@ -73,19 +65,21 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=YashKhandelwal0705&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### 📈 GitHub Statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashKhandelwal0705&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKhandelwal0705&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-### 📊 Detailed Language Analysis
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKhandelwal0705&layout=donut&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<details>
+<summary>📈 More Analytics</summary>
+<br>
+<div align="center">
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=YashKhandelwal0705&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -93,10 +87,13 @@ me.say_hi()
 ### 📊 Contribution Graph
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashKhandelwal0705&theme=tokyo-night&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ⚡ GitHub Metrics
-[![Metrics](https://github-readme-stats.vercel.app/api?username=YashKhandelwal0705&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 🔄 Repository Summary
+- 🔭 **Total Public Repos**: ![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYashKhandelwal0705&style=flat-square)
+- ⭐ **Total Stars Earned**: ![GitHub stars](https://img.shields.io/github/stars/YashKhandelwal0705?style=flat-square)
+- 📦 **Commit Activity (this repo)**: ![GitHub commits](https://img.shields.io/github/commit-activity/m/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
 
 </div>
+</details>
 
 ---
 
@@ -143,16 +140,6 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YashKhandelwal0705&style=for-the-badge&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/YashKhandelwal0705?style=for-the-badge&color=green)
-![GitHub stars](https://img.shields.io/github/stars/YashKhandelwal0705?style=for-the-badge&color=yellow)
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -167,13 +154,10 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 
 <div align="center">
 
-### 💭 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![Snake animation dark](https://raw.githubusercontent.com/YashKhandelwal0705/YashKhandelwal0705/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation light](https://raw.githubusercontent.com/YashKhandelwal0705/YashKhandelwal0705/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
 
 **⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
@@ -182,18 +166,3 @@ Advanced ML model predicting vehicle insurance claim severity with comprehensive
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
----
-
-<details>
-<summary>📊 More GitHub Analytics</summary>
-
-### 🔄 Repository Summary
-- 🔭 **Total Public Repos**: ![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYashKhandelwal0705&style=flat-square)
-- ⭐ **Total Stars Earned**: ![GitHub stars](https://img.shields.io/github/stars/YashKhandelwal0705?style=flat-square)
-- 📦 **Recent Commit Activity (this repo)**: ![GitHub commits](https://img.shields.io/github/commit-activity/m/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
-- 📝 **Open PRs (this repo)**: ![GitHub pull requests](https://img.shields.io/github/issues-pr/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
-- 🐛 **Open Issues (this repo)**: ![GitHub issues](https://img.shields.io/github/issues/YashKhandelwal0705/YashKhandelwal0705?style=flat-square)
-
-
-</details>
